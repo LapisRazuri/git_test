@@ -1,1 +1,2 @@
 I still don't understand what is going on
+Yes I still I don't understand what is going on but I am going to try few new things to get knack of it. First I will try to make some changes into this file and see what happes to the git homepage.
